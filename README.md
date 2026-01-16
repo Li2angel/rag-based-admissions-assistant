@@ -1,12 +1,12 @@
 # 🎓 UM6P International Student Admissions Assistant
 
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/youngmustee/rag-admission-system)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://youngmustee-rag-admission-system.hf.space/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 > A zero-cost Retrieval-Augmented Generation (RAG) system providing accurate, cited answers to prospective UM6P international students' admissions questions.
 
-[**🚀 Live Demo**](https://huggingface.co/spaces/youngmustee/rag-admission-system) | [**📖 Documentation**](#documentation) | [**🎯 Performance**](#performance-metrics)
+[**🚀 Live Demo**](https://youngmustee-rag-admission-system.hf.space/) | [**📖 Documentation**](#documentation) | [**🎯 Performance**](#performance-metrics)
 
 ---
 
@@ -306,6 +306,6 @@ If you use this work in your research or project, please cite:
   
 **Built with ❤️ for UM6P International Students**
 
-[🚀 Try Live Demo](https://huggingface.co/spaces/youngmustee/rag-admission-system) | [📖 Read Full Report](docs/REPORT.md) | [⭐ Star on GitHub](https://github.com/Li2angel/rag-based-admissions-assistant)
+[🚀 Try Live Demo](https://youngmustee-rag-admission-system.hf.space/) | [📖 Read Full Report](docs/REPORT.md) | [⭐ Star on GitHub](https://github.com/Li2angel/rag-based-admissions-assistant)
 
 </div>
