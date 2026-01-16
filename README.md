@@ -286,22 +286,6 @@ flake8 src/ app.py
 
 ---
 
-## 📊 Citation
-
-If you use this work in your research or project, please cite:
-
-```bibtex
-@software{rag_based_admissions_assistant,
-  author = {Mustapha Babatunde Abimbola},
-  title = {UM6P International Student Admissions Assistant: A Zero-Cost RAG System},
-  year = {2025},
-  url = {https://github.com/Li2angel/rag-based-admissions-assistant},
-  note = {Hugging Face Spaces deployment}
-}
-```
-
----
-
 <div align="center">
   
 **Built with ❤️ for UM6P International Students**
