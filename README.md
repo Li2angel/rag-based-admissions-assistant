@@ -26,6 +26,8 @@ The UM6P International Student's Admission Assistant is an AI-powered chatbot sp
 ---
 
 ## 🏗️ System Architecture
+<img width="1024" height="554" alt="architecture_diagram" src="https://github.com/user-attachments/assets/71c6b3d1-5ee2-4d4c-b156-4d755fb0fd54" />
+*End-to-end RAG pipeline showing data flow from query to cited answer*
 
 ```
 User Query → BGE-Small-v1.5 Embedding → FAISS Vector Search → Top-7 Retrieval 
@@ -61,7 +63,7 @@ User Query → BGE-Small-v1.5 Embedding → FAISS Vector Search → Top-7 Retrie
 ### Knowledge Base
 - **Total Chunks**: 298
 - **Coverage**: Visa, Applications, Financial Aid, Accommodation, Campus Life
-- **Languages**: English (primary), French (supported)
+- **Languages**: English
 - **Sources**: Official UM6P documents (70%), Community guides (20%), Student surveys (10%)
 
 ---
